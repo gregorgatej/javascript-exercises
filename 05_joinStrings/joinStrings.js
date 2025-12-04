@@ -1,6 +1,6 @@
 /*
  First name: Carlos
- Last name: Stevenson
+Last name: Stevenson
  This year: 1965
  Birth year: 1947
 
@@ -9,6 +9,14 @@
 
 // Add your code right below, good luck!
 
+ firstName = "Carlos" 
+ lastName = "Stevenson"
+ thisYear = 1965
+ birthYear = 1947
+ age = thisYear - birthYear
+ fullName = firstName + " " + lastName
+
+ greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
 
 
 
